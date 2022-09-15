@@ -1,0 +1,8 @@
+/home/josiah/vagabond/forage/telstra/telstra-task-4-model-answer/src/main/java/au/com/telstra/simcardactivator/component/SimCardActivationRestController.java
+/home/josiah/vagabond/forage/telstra/telstra-task-4-model-answer/src/main/java/au/com/telstra/simcardactivator/repository/SimCardRecordRepository.java
+/home/josiah/vagabond/forage/telstra/telstra-task-4-model-answer/src/main/java/au/com/telstra/simcardactivator/foundation/SimCard.java
+/home/josiah/vagabond/forage/telstra/telstra-task-4-model-answer/src/main/java/au/com/telstra/simcardactivator/foundation/ActuationResult.java
+/home/josiah/vagabond/forage/telstra/telstra-task-4-model-answer/src/main/java/au/com/telstra/simcardactivator/SimCardActivator.java
+/home/josiah/vagabond/forage/telstra/telstra-task-4-model-answer/src/main/java/au/com/telstra/simcardactivator/component/SimCardActuationHandler.java
+/home/josiah/vagabond/forage/telstra/telstra-task-4-model-answer/src/main/java/au/com/telstra/simcardactivator/record/SimCardRecord.java
+/home/josiah/vagabond/forage/telstra/telstra-task-4-model-answer/src/main/java/au/com/telstra/simcardactivator/component/DatabaseConduit.java
